@@ -1,3 +1,5 @@
+
+...
 1) Write a program to get the tuple elements and print it.
 Sample Input:
 3
@@ -6,6 +8,7 @@ Sample Input:
 30
 Sample Output:
 (20, 10, 30)
+...
 Ans:
 #python
 lst=[]
